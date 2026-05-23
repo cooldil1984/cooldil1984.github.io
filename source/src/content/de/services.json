@@ -1,0 +1,29 @@
+{
+  "advisoryLabel": "Beratungsleistungen",
+  "services": [
+    {
+      "title": "IT & Management-Beratung",
+      "desc": "Strategische Technologieberatung für Unternehmen, die komplexe digitale Transformationsprogramme navigieren – von der Roadmap-Entwicklung bis hin zu Governance-Frameworks."
+    },
+    {
+      "title": "Interim IT-Leadership",
+      "desc": "Übernahme der Funktion als erfahrener CIO, CTO oder Programmdirektor, um kritische Technologieinitiativen zu stabilisieren, zu führen und erfolgreich abzuschließen."
+    },
+    {
+      "title": "Coaching & Transformation",
+      "desc": "Executive Coaching, Agile- & SAFe-Coaching sowie kulturelle Transformation für hochleistungsfähige Teams, die mit Verantwortung und Zielorientierung liefern."
+    },
+    {
+      "title": "Portfolio-Governance & P&L-Stewardship",
+      "desc": "Ganzheitliche Verantwortung für Technologie-Portfolios im Millionenbereich mit konsequenter Finanzkontrolle und planbarer Lieferfähigkeit."
+    },
+    {
+      "title": "Agile / SAFe Release Train Engineering",
+      "desc": "Aufbau und Steuerung globaler Agile Release Trains über verteilte, länderübergreifende Teams hinweg – für synchronisierte und leistungsfähige Delivery."
+    },
+    {
+      "title": "Cloud & Digital Workplace Transformation",
+      "desc": "Leitung von Cloud-Migrationen und modernen Arbeitsplatz-Rollouts für Tausende von Mitarbeitenden – mit Fokus auf Akzeptanz und Geschäftskontinuität."
+    }
+  ]
+}

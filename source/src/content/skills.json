@@ -1,0 +1,25 @@
+{
+  "sectionLabel": "What I Bring",
+  "heading": "Capabilities & Services",
+  "subheading": "Grounded in 19 years of delivery across insurance, enterprise IT, and cloud transformation — available as a consultant, interim leader, or coach.",
+  "coreExpertiseLabel": "Core Expertise",
+  "skills": [
+    "Portfolio & P&L Management",
+    "Global Delivery Leadership",
+    "Enterprise Program Management",
+    "Agile & SAFe (SAFe 5 RTE Certified)",
+    "Strategic Stakeholder Engagement",
+    "Risk & Compliance Management",
+    "Cloud & IT Transformation",
+    "Innovation & Technology Strategy",
+    "Process Optimization & Automation",
+    "Executive Coaching & Talent Development"
+  ],
+  "languagesLabel": "Languages",
+  "languages": [
+    { "lang": "English", "level": "Full Professional" },
+    { "lang": "Hindi",   "level": "Working" },
+    { "lang": "Kannada", "level": "Native" },
+    { "lang": "German",  "level": "B1" }
+  ]
+}

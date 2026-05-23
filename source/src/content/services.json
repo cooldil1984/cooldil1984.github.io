@@ -1,0 +1,29 @@
+{
+  "advisoryLabel": "Advisory Services",
+  "services": [
+    {
+      "title": "IT & Management Consulting",
+      "desc": "Strategic technology advisory for enterprises navigating complex digital transformation programs. From roadmap design to governance frameworks."
+    },
+    {
+      "title": "Interim IT Leadership",
+      "desc": "Stepping in as an experienced CIO, CTO, or program director to stabilize, lead, and drive critical technology initiatives to a successful outcome."
+    },
+    {
+      "title": "Coaching & Transformation",
+      "desc": "Executive coaching, agile & SAFe coaching, and cultural transformation to build high-performance teams that deliver with accountability and purpose."
+    },
+    {
+      "title": "Portfolio Governance & P&L Stewardship",
+      "desc": "End-to-end ownership of multi-million-euro technology portfolios with rigorous financial accountability and delivery predictability."
+    },
+    {
+      "title": "Agile / SAFe Release Train Engineering",
+      "desc": "Setting up and facilitating global Agile Release Trains across distributed, multi-country teams. Turning fragmented groups into synchronized delivery engines."
+    },
+    {
+      "title": "Cloud & Digital Workplace Transformation",
+      "desc": "Leading cloud migration and modern workplace rollouts for thousands of employees across geographies, with a focus on adoption and business continuity."
+    }
+  ]
+}

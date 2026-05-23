@@ -1,0 +1,25 @@
+{
+  "sectionLabel": "Was ich mitbringe",
+  "heading": "Kompetenzen & Leistungen",
+  "subheading": "Fundiert auf 19 Jahren Projekterfahrung in Versicherung, Enterprise-IT und Cloud-Transformation – verfügbar als Berater, Interim-Manager oder Coach.",
+  "coreExpertiseLabel": "Fachliche Kernkompetenzen",
+  "skills": [
+    "Portfolio- & P&L-Management",
+    "Globale Delivery-Führung",
+    "Enterprise-Programm­management",
+    "Agile & SAFe (SAFe 5 RTE Zertifiziert)",
+    "Strategisches Stakeholder-Management",
+    "Risiko- & Compliance-Management",
+    "Cloud- & IT-Transformation",
+    "Innovations- & Technologiestrategie",
+    "Prozessoptimierung & Automatisierung",
+    "Executive Coaching & Talententwicklung"
+  ],
+  "languagesLabel": "Sprachkenntnisse",
+  "languages": [
+    { "lang": "Englisch", "level": "Verhandlungssicher" },
+    { "lang": "Hindi",    "level": "Beruflich" },
+    { "lang": "Kannada",  "level": "Muttersprache" },
+    { "lang": "Deutsch",  "level": "B1" }
+  ]
+}
